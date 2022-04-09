@@ -1,5 +1,5 @@
 # 基于 Socket 和 TCP/IP 协议实现双机多线程协作运算加速
-## Speed-up-Operations-with-Dual-Computers-based-on-Socket-and-TCP-IP
+## Speed up Operations with Dual Computers based on Socket and TCP IP
 **工具&环境**:Windows + Visual Studio Community 2019 + 显卡Nvidia GTX1050ti(cuda_10.1)
 通过算法、多进程、分布式计算加速简单运算、排序等操作。
 
